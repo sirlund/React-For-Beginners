@@ -4,7 +4,7 @@ class Order extends React.Component {
   render (){
     // comment?
     return (
-      <p>Order</p>
+      <h2>Order</h2>
     )
   }
 }
